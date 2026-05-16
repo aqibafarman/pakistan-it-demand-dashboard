@@ -1,0 +1,5 @@
+metric,value,unit,interpretation
+MAE (Mean Absolute Error),81.0,Million USD,Forecast is off by ~$81M on average
+MAPE (Mean Absolute % Error),11.6,%,Good fit (11.6%)
+RMSE,93.0,Million USD,Root mean squared error: $93M
+Training Observations,20.0,years,Model trained on 20 annual data points
